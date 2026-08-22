@@ -1,0 +1,33 @@
+title: "Sayed Hossain Khan"
+description: "Software Engineer & API Middleware Specialist | Core Banking | Microservices | Enterprise Integration"
+url: "https://shkshuvo.github.io"
+baseurl: ""
+
+author:
+  name: "Sayed Hossain Khan"
+  avatar: "/images/profile.jpg"
+  role: "Middleware Architecture Professional"
+  bio: "Software Engineer & API Middleware Specialist"
+  location: "Dhaka, Bangladesh"
+  email: "sayedhossainkhan36@gmail.com"
+  github: "shkshuvo"
+  linkedin: "sayed-hossain-khan-236906162"
+  behance: "sayedkhan2"
+
+markdown: kramdown
+permalink: pretty
+
+include:
+  - _pages
+
+exclude:
+  - README_PORTFOLIO_SETUP.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
