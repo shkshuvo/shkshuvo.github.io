@@ -5,7 +5,7 @@ permalink: /
 
 # Hello, I'm Sayed Hossain Khan 👋
 
-I am a **Software Engineer & API Middleware Specialist** with hands-on experience in **core banking systems, microservices architecture, and enterprise integration**.I currently work at **City Bank PLC** as an **Officer** contributing to mission-critical digital banking initiatives and enterprise middleware services.My core engineering interests include **Spring Boot, REST APIs, ESB, Oracle, microservices, core banking integration, DevOps, data engineering, AI, and machine learning**.
+I am a **Software Engineer & API Middleware Specialist** with hands-on experience in **core banking systems, microservices architecture, and enterprise integration**.I currently work at **City Bank PLC** as an **Officer, API Middleware, Microservices, Core Banking**, contributing to mission-critical digital banking initiatives and enterprise middleware services.My core engineering interests include **Spring Boot, REST APIs, ESB, Oracle, microservices, core banking integration, DevOps, data engineering, AI, and machine learning**.
 
 <div class="hero-actions">
   <a class="button button-primary" href="/files/cv.pdf">Download CV</a>
